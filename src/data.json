@@ -1,0 +1,68 @@
+{
+  "users": {
+    "Jhon": {
+      "profile": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50.jpg",
+      "chats": {
+        "Monica": [
+          {
+            "text": "Hello Mon",
+            "time": "20/06/2023, 15:20:12",
+            "sentBy": "Jhon"
+          },
+          {
+            "text": "heyy",
+            "time": "20/06/2023, 15:20:12",
+            "sentBy": "Monica"
+          },
+          {
+            "text": "CRAZY",
+            "time": "20/06/2023, 15:10:12",
+            "sentBy": "Monica"
+          },
+          {
+            "text": "Did You complete homework?",
+            "time": "20/06/2023, 15:20:12",
+            "sentBy": "Monica"
+          }
+        ],
+        "Ram":[],
+        "Garima":[],
+        "Peter":[{
+          "text": "Hey! Jhon",
+          "time": "20/06/2023, 15:20:12",
+          "sentBy": "Peter"
+        }],
+        "Jack": [
+          {
+            "text": "hello",
+            "time": "20/06/2023, 15:20:12",
+            "sentBy": "Jhon"
+          },
+          {
+            "text": "Hey!",
+            "time": "20/06/2023, 15:20:12",
+            "sentBy": "Jack"
+          },
+          {
+            "text": "Did You complete homework?",
+            "time": "20/06/2023, 15:20:12",
+            "sentBy": "Jack"
+          },
+          {
+            "text": "Yes",
+            "time": "20/06/2023, 15:20:12",
+            "sentBy": "Jhon"
+          },
+          {
+            "text": "2-3 Problems are left",
+            "time": "20/06/2023, 15:20:12",
+            "sentBy": "Jhon"
+          },
+          { "text": "Ok", "time": "20/06/2023, 15:20:12", "sentBy": "Jack" }
+        ]
+      }
+    }
+  }
+}
+
+
